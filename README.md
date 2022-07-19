@@ -1,2 +1,2 @@
-# BeerRecomendationSystem
-this is for beer lovers
+# Competition Project
+this repository is for my practice about kaggle, dacon..
